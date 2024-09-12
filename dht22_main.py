@@ -1,4 +1,3 @@
-```python
 # Import necessary libraries
 import board
 import adafruit_dht
@@ -26,4 +25,3 @@ while True:
 
     # Wait for 20 seconds before taking another reading
     time.sleep(20.0)
-```
